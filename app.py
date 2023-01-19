@@ -1,11 +1,15 @@
 import streamlit as st 
 import streamlit.components.v1 as components
 import static
+from PIL import Image
 
 st.set_page_config(page_title="Eshban Suleman", layout="wide", page_icon="👨‍🔬")
 
+image = Image.open("./media/imgs/me.jpeg")
+
 with st.sidebar:
-    components.html(static.embeds["linkedin"], height=310)
+    components.html(static.embeds["linkedin"], height=200)
+    st.image(image)
 
 st.header("About Me 📖")
 st.write(static.info["intro"])

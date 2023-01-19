@@ -1,7 +1,7 @@
 info = {
     "name": "Eshban Suleman",
-    "intro": """I'm a Data Scientist with 3+ years of broad-based experience in building data-intensive applications, and overcoming complex architectural issues. Proficient in predictive modelling, large-scale data processing, NLP and statistical analysis, as well as scripting languages like Python. Capable of creating, developing, testing, and deploying highly adaptive diverse services to translate business and functional qualifications into substantial deliverables.
-                \nI like to read, mostly non-fiction, self-help books. I enjoy wathcing movies and TV shows, my favorite generes are fantasy, sci-fi, psychological thrillers, adventure. I enjoy sports as well. I love to play and watch cricket, table tennis, basketball, chess. I like to spend my free time by learning about something new/interesting. And that's pretty much about me! 😄""",
+    "intro": """I'm a Data Scientist with 3+ years of broad-based experience in building data-intensive applications and overcoming complex architectural issues. Proficient in predictive modelling, large-scale data processing, NLP and statistical analysis, as well as scripting languages like Python. Capable of creating, developing, testing and deploying highly adaptive diverse services to translate business and functional qualifications into substantial deliverables.
+                \nI like to read books. I particularly enjoy reading self-help and non-finction books. I also enjoy watching TV shows and Movies. May favorite genres are aSci-Fi, Psychological Thrillers, Fantasy and Adventure. I'm a sports fanatic too and I also play a number of indoor and outdoor sports like Cricket, Table Tennis, Basketball and Chess. I also like to spend my time learning about new and fascinating things.😄""",
     "photo": {"path": "photo.jpg", "width": 150},
     "mobile": "+92-304-4455675",
     "email": "eshban9492@gmail.com",
@@ -21,12 +21,12 @@ info = {
 }
 
 responsibilities = [
-    """- **Lead the research and development** of a semantic search engine""",
+    """- **Lead the research and development** of a Semantic Search Engine""",
     """- **Developed tests and benchmarks** to evaluate the performance of our ML models""",
-    """- **Improved the performance** of our production ML model by **49%** in one case and by **6%** in another by **improving data quality** and **hyperparameter optimization**""",
+    """- **Improved the performance** of our production ML model by **49%** in one case and by **6%** in another by **improving Data Quality** and **Hyperparameter Pptimization**""",
     """- **Decreased the latency** of our API by **40%** by optimizing the architecture for inference time""",
-    """- **Reduced costs** of our APIs by **72%** in one case and **68%** in another by developing an **automated self-replacing spot servers system** in AWS""",
-    """- **Brought deployment time down** by **83%** by implementing a robust **CI/CD pipeline** using **DVC, Docker, GitHub Actions and AWS Elastic Beanstalk**""",
+    """- **Reduced costs** of our APIs by **72%** in one case and **68%** in another by developing an **Automated Self-Replacing Spot Server System** in AWS""",
+    """- **Brought deployment time down** by **83%** by implementing a robust **CI/CD Pipeline** using **DVC, Docker, GitHub Actions and AWS Elastic Beanstalk**""",
     """- **Designed and developed data pipelines** to fetch data and update our online ML models""",
     """- **Took additional responsibilities** such as **interviewing, onboarding, mentoring, planning product roadmaps, delegating tasks** etc."""
 ]
